@@ -1,4 +1,4 @@
 from src.main.stuff import fun
 
 def testFun():
-  assert fun() == 1
+  assert fun() == 0
